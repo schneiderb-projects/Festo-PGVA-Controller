@@ -1,1 +1,1 @@
-A bunch of example of how to use everything
+Examples of how to use the interface
